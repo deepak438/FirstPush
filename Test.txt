@@ -1,2 +1,4 @@
 This is my first git version V1.
 I want this to go to commit 2
+my code deepak
+hello all
